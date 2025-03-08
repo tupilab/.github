@@ -1,28 +1,23 @@
-<style>
-  .grid-background {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16/9;
-    background: radial-gradient(circle, #ccc 1px, transparent 1px);
-    background-size: 20px 20px;
-  }
-  .grid-background h1 {
-    position: absolute;
-    font-size: 4rem;
-    color: #333;
-  }
-  .center-text {
-    text-align: center;
-    margin-top: 20px;
-  }
-</style>
+<!-- LOGO DO PROJETO -->
+<p align="center">
+  <a href="https://github.com/calcom/cal.com">
+   <img src="./assets/readme-banner.png" alt="Logo">
+  </a>
 
-<a href="https://tupilab.com" class="grid-background">
-  <h1>TupiLab</h1>
-</a>
+  <h3 align="center">Tupilab.com, Inc.</h3>
 
-<h2 class="center-text">Em construção</h2>
+  <p align="center">
+    Do Brasil.
+    <br />
+    <a href="#"><strong>Saiba mais »</strong></a>
+    <br />
+    <br />
+    <a href="#">Discussões</a>
+    ·
+    <a href="#">Website</a>
+    ·
+    <a href="#">Problemas</a>
+    ·
+    <a href="#">Roteiro</a>
+  </p>
+</p>
